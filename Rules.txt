@@ -1,0 +1,86 @@
+Development is a team sport.
+Change happens - control your reaction to it or perish.
+There are three environments: dev, qa, and prod.
+Erroneous documentation is an accident waiting to happen.
+All abstractions are wrong, some are useful.
+Over-abstraction is bad for software.
+Under-abstraction is bad for software.
+There are two kinds of "yak shaving." One is good, the other is bad. You can't tell which you have been doing until you decide to stop.
+People don't buy software, they buy solutions.
+"I understand that there are choices. Make a decision and execute" (but update your documentation first)
+A good developer is a student of history. Don't re-invent what already exists.
+You can imagine more than you can specify. You can specify more than you can implement. Be conservative but remain creative.
+Beware of bright-shiny objects. They are often silver bullets that have been fired in your direction.
+Undocumented software cannot be controlled.
+Uncontrolled software cannot be improved.
+Good ideas stay fresh forever. Save some for the point release.
+Hack or die.
+Invention requires at least three iterations. Don't commit to your first idea.
+Documentation is like a loving relationship. When it's good, it's great. When it's bad, it's still better than nothing.
+The golden hammer is forged out of hegemonism. It is a thing to behold, but also a poor substitute for a screwdriver.
+Libraries are good, but the web is built on APIs.
+Always be committing.
+Branch early and often.
+Build early and often.
+Deploy early and often.
+Pull early and often.
+Analysts are the navigators of software development. Heed them or end up off course.
+Unit tests make the software you write better. Writing them makes you a better developer.
+Bad commit log entries can be funny when you don't have to interpret them.
+Debug first, refactor later.
+"Not everything worth doing is worth doing well" - Tom West
+The future belongs to those who plan for it.
+The customer rarely knows what they want. Ask questions.
+"Real artists ship" - Steve Jobs
+Adhere to the "end-to-end" principle but design for the web.
+Your software must be at least as scalable as your ambitions.
+Interfaces are like roommates. A good one makes everything better, but a bad one can ruin everything. Choose them wisely.
+Comments are easier to read than code.
+Admit to bad software. It will discourage others from reusing it.
+Fix bugs or add features. Not both at once.
+Trust your gut. If something doesn't feel right, review your objectives and then your design.
+The key to the success or failure of a complex project is often realizing what to change and what not to change when. Too little change early on indicates that your requirements gathering process is insufficient. Too many changes late in the game will bring the whole house down on your head.
+Is it done?....Did you test it?....Well then it's not really done. Is it.
+Some days are better than others. Suck it up and put on headphones.
+Focus takes time to build but evaporates quickly. If someone is in the zone, leave them alone!
+Resiliency is a system design problem, not a redundant component problem. Redundant components in a non-resilient system are just that - redundant.
+Storage will fail - use services provided by experts whenever possible. If you own the storage system, prepare for the worst case scenarios in advance.
+Things rarely blow up all at once. A good monitoring system can save your bacon if you set it up correctly and check it religiously.
+Not even good software will ever be accounted as an asset. Bad software, in reality, is a liability.
+Nothing is ever finished. Know how and when to declare victory.
+Every once in a while do the impossible. It helps manage expectations.
+Don't be afraid to fail, but do so quickly and with great frequency.
+A deadline is a deadline is a deadline.
+On coarse estimation: If you have already implemented a solution, you may say that the task is easy. If you have solved the problem before but must now craft a new implementation, you may say that it will require some work to accomplish. If you have never solved the problem before but others have, you may say that it would require non-trivial effort and serious planning (for learning not only requirements but technology is required). If, to your knowledge, no one has ever solved the problem, you must take more time to study it. If "new physics" are involved, recruit a post-doc to help you.
+"Better done than perfect" - Mark Zuckerberg
+When betting on the performance of a third party - hedge. They will often promise more than they can deliver, sometimes without even knowing it.
+Don't try to design a system that you believe cannot be built. Otherwise your design will function as nothing more than a self fulfilling prophecy.
+If you need to design a complex system and are not sure where to start, build a few prototypes.
+Take things off the shelf whenever possible, but don't make any unreasonable accommodations for poorly written software.
+Beware of abandoned open source projects - they are often haunted.
+Working late is not a thing to do but a state of mind. The best developers don't care about what time it is, but what they are accomplishing or aim to accomplish.
+Rest is important.
+Happy hour is important.
+Take a walk every once in a while. It helps you to focus your thoughts.
+Carry a notebook - your memory is not good enough for the business at hand.
+Enjoy writing up what you have been working on. This is your victory lap.
+Do not choose to adopt abandoned projects. If you have no choice, vet it thoroughly and track down the previous owner before signing up (you want to know what you're dealing with, and you may need to call in the previous author for help).
+No amount of money can function as a substitute for curiosity, enthusiasm, and drive. Therefore "signing up" is not a gesture, but a fact of life for good developers.
+The "How" of something is often harder to determine but easier to quantify than the "Why." You must be able to enumerate both in sufficient detail to succeed.
+When modifying someone else's code, change as little as possible. If significant extensions are required, create new modules and adhere to the "end-to-end" principle. Detailed change logs are required in either case to keep the code-base sound.
+The QA phase is a battle to the death with the gremlins who would see your project fail. Don't let them win.
+Obsession is the frenemy of many good developers. Know when to call it quits and return to port.
+Avoid design by committee, but socialize your interfaces.
+Always be closing (tickets)
+Maintenance of a software system will account for between 40% and 80% of its total lifetime cost. This is the true cost of ownership.
+Build vs. Buy is a question of strategic and financial analysis, not technical capability.
+Good communication is the lifeblood of an effective team.
+Maintain conceptual integrity or your software wont make sense.
+Simpler is always better.
+The best time to follow-up is right now.
+"Talk is cheap. Show me the code." - Linus Torvalds
+"given enough eyeballs all bugs are shallow." - Linus' Law
+"use the force - read the source"
+Don't be afraid to proclaim yourself a specialist, but do your homework.	
+During Q&A, interfaces may not be reworked unless it would require at least 2.5x as much effort to work around.
+DUring Q&A, all commits need to reference a ticket number.
