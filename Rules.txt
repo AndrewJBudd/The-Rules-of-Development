@@ -82,5 +82,6 @@ The best time to follow-up is right now.
 "given enough eyeballs all bugs are shallow." - Linus' Law
 "use the force - read the source"
 Don't be afraid to proclaim yourself a specialist, but do your homework.	
-During Q&A, interfaces may not be reworked unless it would require at least 2.5x as much effort to work around.
-DUring Q&A, all commits need to reference a ticket number.
+During Q&A, interfaces may not be changed unless it would require at least 2.5x as much effort to work around the defect.
+During Q&A, all commits need to reference a ticket number.
+Demos speak louder than words.
