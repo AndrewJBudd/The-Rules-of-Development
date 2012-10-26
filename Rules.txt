@@ -85,3 +85,5 @@ Don't be afraid to proclaim yourself a specialist, but do your homework.
 During Q&A, interfaces may not be changed unless it would require at least 2.5x as much effort to work around the defect.
 During Q&A, all commits need to reference a ticket number.
 Demos speak louder than words.
+Your delivery isn't just code, everything you need to deploy must be version controlled.
+If its not automatically tested, its broken.
