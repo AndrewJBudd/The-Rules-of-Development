@@ -61,7 +61,7 @@ Beware of abandoned open source projects - they are often haunted.
 Working late is not a thing to do but a state of mind. The best developers don't care about what time it is, but what they are accomplishing or aim to accomplish.
 Rest is important.
 Happy hour is important.
-Take a walk every once in a while. It helps you to focus your thoughts.
+Take a walk as many times a day as you can .
 Carry a notebook - your memory is not good enough for the business at hand.
 Enjoy writing up what you have been working on. This is your victory lap.
 Do not choose to adopt abandoned projects. If you have no choice, vet it thoroughly and track down the previous owner before signing up (you want to know what you're dealing with, and you may need to call in the previous author for help).
@@ -87,3 +87,4 @@ During Q&A, all commits need to reference a ticket number.
 Demos speak louder than words.
 Your delivery isn't just code, everything you need to deploy must be version controlled.
 If its not automatically tested, its broken.
+Avoid really long lists comprised solely of maxims
